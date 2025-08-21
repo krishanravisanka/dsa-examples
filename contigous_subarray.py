@@ -1,3 +1,4 @@
+# Kadane's Algorithms for find continuous sequence of numbers in the array that has the largest possible sum.
 nums = [-2,1,-3,4,-1,2,1,-5,4]
 
 def sub_array(nums):
