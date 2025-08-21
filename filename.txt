@@ -1,0 +1,8 @@
+hello world
+this is the log file
+and this is the end
+4
+5
+6
+7
+8
